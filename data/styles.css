@@ -67,6 +67,8 @@
   color:#000000;
   text-align:left;
 }
+._流程形状 {
+}
 .paragraph {
   text-align:left;
 }
@@ -128,4 +130,8 @@
   color:#000000;
 }
 .flow_shape {
+}
+.table {
+}
+.table_cell {
 }
