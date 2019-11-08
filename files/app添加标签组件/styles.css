@@ -1,0 +1,3135 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1920px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u1922_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1920px;
+  height:937px;
+}
+#u1922 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:-48px;
+  width:1920px;
+  height:937px;
+}
+#u1922_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1923_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1433px;
+  height:763px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1923 {
+  border-width:0px;
+  position:absolute;
+  left:220px;
+  top:106px;
+  width:1433px;
+  height:763px;
+}
+#u1923_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1924_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:95px;
+  height:38px;
+}
+#u1924 {
+  border-width:0px;
+  position:absolute;
+  left:228px;
+  top:143px;
+  width:95px;
+  height:38px;
+}
+#u1924_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:11px;
+  width:91px;
+  word-wrap:break-word;
+}
+#u1925 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u1926 {
+  position:absolute;
+  left:252px;
+  top:191px;
+}
+#u1926_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1926_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1927_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1927 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1927_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1926_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1926_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1928_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1928 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1928_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1929 {
+  position:absolute;
+  left:369px;
+  top:191px;
+}
+#u1929_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1929_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1930_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1930 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1930_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1929_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1929_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1931_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1931 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1931_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1932 {
+  position:absolute;
+  left:485px;
+  top:191px;
+}
+#u1932_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1932_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1933_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1933 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1933_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1932_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1932_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1934_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1934 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1934_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1935 {
+  position:absolute;
+  left:602px;
+  top:191px;
+}
+#u1935_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1935_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1936_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1936 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1936_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1935_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1935_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1937_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1937 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1937_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1938 {
+  position:absolute;
+  left:718px;
+  top:191px;
+}
+#u1938_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1938_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1939_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1939 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1939_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1938_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1938_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1940_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1940 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1940_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1941 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u1942 {
+  position:absolute;
+  left:252px;
+  top:244px;
+}
+#u1942_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1942_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1943_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1943 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1943_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1942_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1942_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1944_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1944 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1944_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1945 {
+  position:absolute;
+  left:369px;
+  top:244px;
+}
+#u1945_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1945_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1946_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1946 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1946_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1945_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1945_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1947_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1947 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1947_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1948 {
+  position:absolute;
+  left:485px;
+  top:244px;
+}
+#u1948_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1948_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1949_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1949 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1949_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1948_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1948_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1950_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1950 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1950_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1951 {
+  position:absolute;
+  left:602px;
+  top:244px;
+}
+#u1951_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1951_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1952_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1952 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1952_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1951_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1951_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1953_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1953 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1953_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1954 {
+  position:absolute;
+  left:718px;
+  top:244px;
+}
+#u1954_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1954_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1955_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1955 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1955_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1954_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1954_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1956_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1956 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1956_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1957 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u1958 {
+  position:absolute;
+  left:252px;
+  top:297px;
+}
+#u1958_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1958_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1959_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1959 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1959_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1958_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1958_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1960_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1960 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1960_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1961 {
+  position:absolute;
+  left:369px;
+  top:297px;
+}
+#u1961_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1961_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1962_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1962 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1962_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1961_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1961_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1963_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1963 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1963_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1964 {
+  position:absolute;
+  left:485px;
+  top:297px;
+}
+#u1964_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1964_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1965_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1965 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1965_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1964_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1964_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1966_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1966 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1966_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1967 {
+  position:absolute;
+  left:602px;
+  top:297px;
+}
+#u1967_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1967_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1968_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1968 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1968_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1967_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1967_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1969_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1969 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1969_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1970 {
+  position:absolute;
+  left:718px;
+  top:297px;
+}
+#u1970_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1970_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1971_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1971 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1971_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1970_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1970_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1972_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1972 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1972_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1973 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u1974 {
+  position:absolute;
+  left:252px;
+  top:350px;
+}
+#u1974_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1974_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1975_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1975 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1975_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1974_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1974_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1976_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1976 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1976_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1977 {
+  position:absolute;
+  left:369px;
+  top:350px;
+}
+#u1977_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1977_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1978_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1978 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1978_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1977_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1977_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1979_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1979 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1979_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1980 {
+  position:absolute;
+  left:485px;
+  top:350px;
+}
+#u1980_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1980_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1981_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1981 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1981_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1980_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1980_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1982_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1982 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1982_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1983 {
+  position:absolute;
+  left:602px;
+  top:350px;
+}
+#u1983_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1983_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1984_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1984 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1984_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1983_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1983_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1985_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1985 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1985_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1986 {
+  position:absolute;
+  left:718px;
+  top:350px;
+}
+#u1986_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1986_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1987_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1987 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1987_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1986_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1986_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1988_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1988 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1988_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1989 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u1990 {
+  position:absolute;
+  left:252px;
+  top:403px;
+}
+#u1990_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1990_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1991_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1991 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1991_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1990_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1990_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1992_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1992 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1992_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1993 {
+  position:absolute;
+  left:369px;
+  top:403px;
+}
+#u1993_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1993_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1994_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1994 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1994_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1993_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1993_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1995_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1995 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1995_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1996 {
+  position:absolute;
+  left:485px;
+  top:403px;
+}
+#u1996_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1996_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1997_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1997 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u1997_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1996_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1996_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u1998_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1998 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u1998_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1999 {
+  position:absolute;
+  left:602px;
+  top:403px;
+}
+#u1999_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u1999_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u2000_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u2000 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u2000_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u1999_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u1999_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u2001_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u2001 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u2001_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u2002 {
+  position:absolute;
+  left:718px;
+  top:403px;
+}
+#u2002_state0 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background-image:none;
+}
+#u2002_state0_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u2003_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u2003 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+}
+#u2003_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
+#u2002_state1 {
+  position:relative;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  visibility:hidden;
+  background-image:none;
+}
+#u2002_state1_content {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u2004_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(248, 106, 64, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u2004 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:36px;
+  font-family:'Bauhaus 93 Normal', 'Bauhaus 93';
+  font-weight:400;
+  font-style:normal;
+  color:#F86A40;
+}
+#u2004_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:75px;
+  word-wrap:break-word;
+}
