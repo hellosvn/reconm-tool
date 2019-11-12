@@ -3133,3 +3133,29 @@
   width:75px;
   word-wrap:break-word;
 }
+#u2005_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:120px;
+  height:29px;
+}
+#u2005 {
+  border-width:0px;
+  position:absolute;
+  left:818px;
+  top:410px;
+  width:120px;
+  height:29px;
+  font-size:14px;
+  color:#FF0000;
+}
+#u2005_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:116px;
+  word-wrap:break-word;
+}

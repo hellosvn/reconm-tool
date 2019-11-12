@@ -1424,7 +1424,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1668px;
+  width:1654px;
   height:879px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -1446,7 +1446,7 @@
   position:absolute;
   left:226px;
   top:229px;
-  width:1668px;
+  width:1654px;
   height:879px;
   font-family:'Microsoft Tai Le';
   font-weight:400;
@@ -3015,7 +3015,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1625px;
+  width:1627px;
   height:54px;
   background:inherit;
   background-color:rgba(250, 250, 250, 1);
@@ -3041,7 +3041,7 @@
   position:absolute;
   left:238px;
   top:363px;
-  width:1625px;
+  width:1627px;
   height:54px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
@@ -3064,7 +3064,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1623px;
+  width:1624px;
   height:54px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -3094,7 +3094,7 @@
   position:absolute;
   left:238px;
   top:575px;
-  width:1623px;
+  width:1624px;
   height:54px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
@@ -3117,7 +3117,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1623px;
+  width:1624px;
   height:54px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -3147,7 +3147,7 @@
   position:absolute;
   left:238px;
   top:628px;
-  width:1623px;
+  width:1624px;
   height:54px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
@@ -3170,7 +3170,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1625px;
+  width:1627px;
   height:54px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -3200,7 +3200,7 @@
   position:absolute;
   left:238px;
   top:416px;
-  width:1625px;
+  width:1627px;
   height:54px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
@@ -3223,7 +3223,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1625px;
+  width:1627px;
   height:54px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -3253,7 +3253,7 @@
   position:absolute;
   left:238px;
   top:469px;
-  width:1625px;
+  width:1627px;
   height:54px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
@@ -3276,7 +3276,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1623px;
+  width:1624px;
   height:54px;
   background:inherit;
   background-color:rgba(255, 255, 255, 1);
@@ -3306,7 +3306,7 @@
   position:absolute;
   left:238px;
   top:522px;
-  width:1623px;
+  width:1624px;
   height:54px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
@@ -3337,7 +3337,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:114px;
+  width:98px;
   height:54px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -3353,7 +3353,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -3364,11 +3364,11 @@
 #u768 {
   border-width:0px;
   position:absolute;
-  left:365px;
+  left:238px;
   top:363px;
-  width:114px;
+  width:98px;
   height:54px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -3381,7 +3381,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:82px;
+  width:66px;
   word-wrap:break-word;
 }
 #u769_div {
@@ -3389,7 +3389,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:117px;
+  width:98px;
   height:265px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -3416,9 +3416,9 @@
 #u769 {
   border-width:0px;
   position:absolute;
-  left:362px;
+  left:238px;
   top:417px;
-  width:117px;
+  width:98px;
   height:265px;
   font-family:'Microsoft Tai Le';
   font-weight:400;
@@ -3433,39 +3433,10 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:85px;
+  width:66px;
   word-wrap:break-word;
-}
-#u770_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:7px;
-  height:10px;
 }
 #u770 {
-  border-width:0px;
-  position:absolute;
-  left:472px;
-  top:384px;
-  width:7px;
-  height:10px;
-  font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
-  font-weight:400;
-  font-style:normal;
-  line-height:18px;
-}
-#u770_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u771 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -3473,12 +3444,12 @@
   width:0px;
   height:0px;
 }
-#u772_div {
+#u771_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:89px;
+  width:108px;
   height:54px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -3494,7 +3465,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -3502,18 +3473,70 @@
   text-align:right;
   line-height:53px;
 }
-#u772 {
+#u771 {
   border-width:0px;
   position:absolute;
-  left:266px;
+  left:334px;
   top:363px;
-  width:89px;
+  width:108px;
   height:54px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
   color:rgba(0, 0, 0, 0.847058823529412);
+  text-align:right;
+  line-height:53px;
+}
+#u771_text {
+  border-width:0px;
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:76px;
+  word-wrap:break-word;
+}
+#u772_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:108px;
+  height:265px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
+  border-radius:4px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Microsoft Tai Le';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.647058823529412);
+  text-align:right;
+  line-height:53px;
+}
+#u772 {
+  border-width:0px;
+  position:absolute;
+  left:334px;
+  top:417px;
+  width:108px;
+  height:265px;
+  font-family:'Microsoft Tai Le';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:rgba(0, 0, 0, 0.647058823529412);
   text-align:right;
   line-height:53px;
 }
@@ -3522,59 +3545,36 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:57px;
-  white-space:nowrap;
+  width:76px;
+  word-wrap:break-word;
 }
-#u773_div {
+#u773_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:117px;
-  height:265px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-left:0px;
-  border-top:0px;
-  border-right:0px;
-  border-radius:4px;
-  border-top-left-radius:0px;
-  border-top-right-radius:0px;
-  border-bottom-right-radius:0px;
-  border-bottom-left-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-family:'Microsoft Tai Le';
-  font-weight:400;
-  font-style:normal;
-  font-size:14px;
-  color:rgba(0, 0, 0, 0.647058823529412);
-  text-align:right;
-  line-height:53px;
+  width:6px;
+  height:10px;
 }
 #u773 {
   border-width:0px;
   position:absolute;
-  left:238px;
-  top:417px;
-  width:117px;
-  height:265px;
-  font-family:'Microsoft Tai Le';
+  left:435px;
+  top:384px;
+  width:6px;
+  height:10px;
+  font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
   font-style:normal;
-  font-size:14px;
-  color:rgba(0, 0, 0, 0.647058823529412);
-  text-align:right;
-  line-height:53px;
+  line-height:18px;
 }
 #u773_text {
   border-width:0px;
   position:absolute;
-  left:16px;
+  left:0px;
   top:0px;
-  width:85px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u774 {
@@ -3590,7 +3590,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:131px;
+  width:139px;
   height:54px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -3606,7 +3606,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -3617,11 +3617,11 @@
 #u775 {
   border-width:0px;
   position:absolute;
-  left:479px;
+  left:440px;
   top:363px;
-  width:131px;
+  width:139px;
   height:54px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -3634,7 +3634,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:99px;
+  width:107px;
   word-wrap:break-word;
 }
 #u776_div {
@@ -3642,7 +3642,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:131px;
+  width:139px;
   height:265px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -3669,9 +3669,9 @@
 #u776 {
   border-width:0px;
   position:absolute;
-  left:479px;
+  left:440px;
   top:417px;
-  width:131px;
+  width:139px;
   height:265px;
   font-family:'Microsoft Tai Le';
   font-weight:400;
@@ -3686,7 +3686,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:99px;
+  width:107px;
   word-wrap:break-word;
 }
 #u777_img {
@@ -3700,7 +3700,7 @@
 #u777 {
   border-width:0px;
   position:absolute;
-  left:602px;
+  left:570px;
   top:384px;
   width:8px;
   height:10px;
@@ -3731,7 +3731,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:117px;
+  width:139px;
   height:54px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -3747,7 +3747,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -3758,11 +3758,11 @@
 #u779 {
   border-width:0px;
   position:absolute;
-  left:610px;
+  left:577px;
   top:363px;
-  width:117px;
+  width:139px;
   height:54px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -3775,7 +3775,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:85px;
+  width:107px;
   word-wrap:break-word;
 }
 #u780_div {
@@ -3783,7 +3783,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:117px;
+  width:139px;
   height:265px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -3810,9 +3810,9 @@
 #u780 {
   border-width:0px;
   position:absolute;
-  left:610px;
+  left:577px;
   top:417px;
-  width:117px;
+  width:139px;
   height:265px;
   font-family:'Microsoft Tai Le';
   font-weight:400;
@@ -3827,7 +3827,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:85px;
+  width:107px;
   word-wrap:break-word;
 }
 #u781_img {
@@ -3835,15 +3835,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:7px;
+  width:8px;
   height:10px;
 }
 #u781 {
   border-width:0px;
   position:absolute;
-  left:720px;
+  left:707px;
   top:384px;
-  width:7px;
+  width:8px;
   height:10px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
@@ -3872,7 +3872,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:133px;
+  width:139px;
   height:54px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -3888,7 +3888,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -3899,11 +3899,11 @@
 #u783 {
   border-width:0px;
   position:absolute;
-  left:727px;
+  left:869px;
   top:363px;
-  width:133px;
+  width:139px;
   height:54px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -3916,7 +3916,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:101px;
+  width:107px;
   word-wrap:break-word;
 }
 #u784_div {
@@ -3924,7 +3924,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:133px;
+  width:139px;
   height:265px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -3951,9 +3951,9 @@
 #u784 {
   border-width:0px;
   position:absolute;
-  left:727px;
+  left:869px;
   top:417px;
-  width:133px;
+  width:139px;
   height:265px;
   font-family:'Microsoft Tai Le';
   font-weight:400;
@@ -3968,7 +3968,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:101px;
+  width:107px;
   word-wrap:break-word;
 }
 #u785_img {
@@ -3982,7 +3982,7 @@
 #u785 {
   border-width:0px;
   position:absolute;
-  left:852px;
+  left:999px;
   top:384px;
   width:8px;
   height:10px;
@@ -4013,7 +4013,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:133px;
+  width:170px;
   height:54px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4029,7 +4029,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4040,11 +4040,11 @@
 #u787 {
   border-width:0px;
   position:absolute;
-  left:860px;
+  left:1004px;
   top:363px;
-  width:133px;
+  width:170px;
   height:54px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4057,7 +4057,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:101px;
+  width:138px;
   word-wrap:break-word;
 }
 #u788_div {
@@ -4065,7 +4065,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:133px;
+  width:170px;
   height:265px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4092,9 +4092,9 @@
 #u788 {
   border-width:0px;
   position:absolute;
-  left:860px;
+  left:1004px;
   top:417px;
-  width:133px;
+  width:170px;
   height:265px;
   font-family:'Microsoft Tai Le';
   font-weight:400;
@@ -4109,7 +4109,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:101px;
+  width:138px;
   word-wrap:break-word;
 }
 #u789_img {
@@ -4117,15 +4117,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:8px;
+  width:10px;
   height:10px;
 }
 #u789 {
   border-width:0px;
   position:absolute;
-  left:985px;
+  left:1164px;
   top:384px;
-  width:8px;
+  width:10px;
   height:10px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
@@ -4154,7 +4154,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:133px;
+  width:145px;
   height:54px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4170,7 +4170,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4181,11 +4181,11 @@
 #u791 {
   border-width:0px;
   position:absolute;
-  left:993px;
+  left:1292px;
   top:363px;
-  width:133px;
+  width:145px;
   height:54px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4198,7 +4198,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:101px;
+  width:113px;
   word-wrap:break-word;
 }
 #u792_div {
@@ -4206,7 +4206,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:133px;
+  width:145px;
   height:265px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4233,9 +4233,9 @@
 #u792 {
   border-width:0px;
   position:absolute;
-  left:993px;
+  left:1292px;
   top:417px;
-  width:133px;
+  width:145px;
   height:265px;
   font-family:'Microsoft Tai Le';
   font-weight:400;
@@ -4250,7 +4250,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:101px;
+  width:113px;
   word-wrap:break-word;
 }
 #u793_img {
@@ -4264,7 +4264,7 @@
 #u793 {
   border-width:0px;
   position:absolute;
-  left:1118px;
+  left:1427px;
   top:384px;
   width:8px;
   height:10px;
@@ -4295,7 +4295,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:163px;
+  width:145px;
   height:54px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4311,7 +4311,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4322,11 +4322,11 @@
 #u795 {
   border-width:0px;
   position:absolute;
-  left:1126px;
+  left:1435px;
   top:363px;
-  width:163px;
+  width:145px;
   height:54px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4339,7 +4339,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:131px;
+  width:113px;
   word-wrap:break-word;
 }
 #u796_div {
@@ -4347,7 +4347,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:163px;
+  width:145px;
   height:265px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4374,9 +4374,9 @@
 #u796 {
   border-width:0px;
   position:absolute;
-  left:1126px;
+  left:1435px;
   top:417px;
-  width:163px;
+  width:145px;
   height:265px;
   font-family:'Microsoft Tai Le';
   font-weight:400;
@@ -4391,7 +4391,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:131px;
+  width:113px;
   word-wrap:break-word;
 }
 #u797_img {
@@ -4399,15 +4399,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:10px;
+  width:8px;
   height:10px;
 }
 #u797 {
   border-width:0px;
   position:absolute;
-  left:1279px;
+  left:1570px;
   top:384px;
-  width:10px;
+  width:8px;
   height:10px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
@@ -4436,7 +4436,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:139px;
+  width:145px;
   height:54px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4452,7 +4452,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4463,11 +4463,11 @@
 #u799 {
   border-width:0px;
   position:absolute;
-  left:1289px;
+  left:1577px;
   top:363px;
-  width:139px;
+  width:145px;
   height:54px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4480,7 +4480,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:107px;
+  width:113px;
   word-wrap:break-word;
 }
 #u800_div {
@@ -4488,7 +4488,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:139px;
+  width:145px;
   height:265px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4515,9 +4515,9 @@
 #u800 {
   border-width:0px;
   position:absolute;
-  left:1289px;
+  left:1577px;
   top:417px;
-  width:139px;
+  width:145px;
   height:265px;
   font-family:'Microsoft Tai Le';
   font-weight:400;
@@ -4532,7 +4532,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:107px;
+  width:113px;
   word-wrap:break-word;
 }
 #u801_img {
@@ -4546,7 +4546,7 @@
 #u801 {
   border-width:0px;
   position:absolute;
-  left:1419px;
+  left:1713px;
   top:384px;
   width:8px;
   height:10px;
@@ -4577,7 +4577,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:139px;
+  width:145px;
   height:54px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4593,7 +4593,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4604,11 +4604,11 @@
 #u803 {
   border-width:0px;
   position:absolute;
-  left:1428px;
+  left:1720px;
   top:363px;
-  width:139px;
+  width:145px;
   height:54px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4621,7 +4621,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:107px;
+  width:113px;
   word-wrap:break-word;
 }
 #u804_div {
@@ -4629,7 +4629,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:139px;
+  width:145px;
   height:265px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4656,9 +4656,9 @@
 #u804 {
   border-width:0px;
   position:absolute;
-  left:1428px;
+  left:1720px;
   top:417px;
-  width:139px;
+  width:145px;
   height:265px;
   font-family:'Microsoft Tai Le';
   font-weight:400;
@@ -4673,7 +4673,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:107px;
+  width:113px;
   word-wrap:break-word;
 }
 #u805_img {
@@ -4687,7 +4687,7 @@
 #u805 {
   border-width:0px;
   position:absolute;
-  left:1558px;
+  left:1856px;
   top:384px;
   width:8px;
   height:10px;
@@ -4718,7 +4718,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:139px;
+  width:157px;
   height:54px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4734,7 +4734,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4745,11 +4745,11 @@
 #u807 {
   border-width:0px;
   position:absolute;
-  left:1567px;
+  left:713px;
   top:363px;
-  width:139px;
+  width:157px;
   height:54px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4762,7 +4762,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:107px;
+  width:125px;
   word-wrap:break-word;
 }
 #u808_div {
@@ -4770,7 +4770,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:139px;
+  width:157px;
   height:265px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4797,9 +4797,9 @@
 #u808 {
   border-width:0px;
   position:absolute;
-  left:1567px;
+  left:713px;
   top:417px;
-  width:139px;
+  width:157px;
   height:265px;
   font-family:'Microsoft Tai Le';
   font-weight:400;
@@ -4814,7 +4814,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:107px;
+  width:125px;
   word-wrap:break-word;
 }
 #u809_img {
@@ -4822,15 +4822,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:8px;
+  width:9px;
   height:10px;
 }
 #u809 {
   border-width:0px;
   position:absolute;
-  left:1697px;
+  left:861px;
   top:384px;
-  width:8px;
+  width:9px;
   height:10px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
@@ -4859,7 +4859,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:139px;
+  width:119px;
   height:54px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4875,7 +4875,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4886,11 +4886,11 @@
 #u811 {
   border-width:0px;
   position:absolute;
-  left:1706px;
+  left:1175px;
   top:363px;
-  width:139px;
+  width:119px;
   height:54px;
-  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-family:'Microsoft Tai Le Bold', 'Microsoft Tai Le';
   font-weight:700;
   font-style:normal;
   font-size:14px;
@@ -4903,7 +4903,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:107px;
+  width:87px;
   word-wrap:break-word;
 }
 #u812_div {
@@ -4911,7 +4911,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:139px;
+  width:122px;
   height:265px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -4938,9 +4938,9 @@
 #u812 {
   border-width:0px;
   position:absolute;
-  left:1706px;
+  left:1172px;
   top:417px;
-  width:139px;
+  width:122px;
   height:265px;
   font-family:'Microsoft Tai Le';
   font-weight:400;
@@ -4955,7 +4955,7 @@
   position:absolute;
   left:16px;
   top:0px;
-  width:107px;
+  width:90px;
   word-wrap:break-word;
 }
 #u813_img {
@@ -4963,15 +4963,15 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:8px;
+  width:7px;
   height:10px;
 }
 #u813 {
   border-width:0px;
   position:absolute;
-  left:1836px;
+  left:1287px;
   top:384px;
-  width:8px;
+  width:7px;
   height:10px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
@@ -4998,8 +4998,8 @@
 #u814 {
   border-width:0px;
   position:absolute;
-  left:369px;
-  top:373px;
+  left:342px;
+  top:363px;
   width:1px;
   height:309px;
 }
