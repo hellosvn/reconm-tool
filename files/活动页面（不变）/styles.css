@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u2665 {
+#u2666 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +20,7 @@
   width:0px;
   height:0px;
 }
-#u2666_div {
+#u2667_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -38,38 +38,13 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u2666 {
+#u2667 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:1906px;
   height:70px;
-}
-#u2666_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:0px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u2667_img {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:569px;
-  height:59px;
-}
-#u2667 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:6px;
-  width:569px;
-  height:59px;
 }
 #u2667_text {
   border-width:0px;
@@ -80,35 +55,29 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u2668_div {
+#u2668_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:181px;
-  height:52px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
+  width:569px;
+  height:59px;
 }
 #u2668 {
   border-width:0px;
   position:absolute;
-  left:1504px;
-  top:11px;
-  width:181px;
-  height:52px;
+  left:0px;
+  top:6px;
+  width:569px;
+  height:59px;
 }
 #u2668_text {
   border-width:0px;
   position:absolute;
-  left:2px;
-  top:18px;
-  width:177px;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
   word-wrap:break-word;
 }
 #u2669_div {
@@ -129,12 +98,43 @@
 #u2669 {
   border-width:0px;
   position:absolute;
-  left:1695px;
+  left:1504px;
   top:11px;
   width:181px;
   height:52px;
 }
 #u2669_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:18px;
+  width:177px;
+  word-wrap:break-word;
+}
+#u2670_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:181px;
+  height:52px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u2670 {
+  border-width:0px;
+  position:absolute;
+  left:1695px;
+  top:11px;
+  width:181px;
+  height:52px;
+}
+#u2670_text {
   border-width:0px;
   position:absolute;
   left:2px;
