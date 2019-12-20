@@ -235,7 +235,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-family:'PingFang SC Bold', 'PingFang SC';
   font-weight:650;
   font-style:normal;
   font-size:20px;
@@ -250,7 +250,7 @@
   top:315px;
   width:67px;
   height:28px;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-family:'PingFang SC Bold', 'PingFang SC';
   font-weight:650;
   font-style:normal;
   font-size:20px;
@@ -356,7 +356,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -370,7 +370,7 @@
   top:397px;
   width:288px;
   height:22px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -529,7 +529,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-family:'PingFang SC Bold', 'PingFang SC';
   font-weight:650;
   font-style:normal;
   font-size:14px;
@@ -543,7 +543,7 @@
   top:500px;
   width:71px;
   height:22px;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-family:'PingFang SC Bold', 'PingFang SC';
   font-weight:650;
   font-style:normal;
   font-size:14px;
@@ -674,7 +674,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   color:rgba(0, 0, 0, 0.647058823529412);
@@ -687,7 +687,7 @@
   top:667px;
   width:81px;
   height:46px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   color:rgba(0, 0, 0, 0.647058823529412);
@@ -810,7 +810,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   color:rgba(0, 0, 0, 0.647058823529412);
@@ -823,7 +823,7 @@
   top:667px;
   width:81px;
   height:46px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   color:rgba(0, 0, 0, 0.647058823529412);
@@ -893,7 +893,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   color:rgba(0, 0, 0, 0.647058823529412);
@@ -906,7 +906,7 @@
   top:713px;
   width:81px;
   height:46px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   color:rgba(0, 0, 0, 0.647058823529412);
@@ -1050,7 +1050,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-family:'PingFang SC Bold', 'PingFang SC';
   font-weight:650;
   font-style:normal;
   font-size:20px;
@@ -1065,7 +1065,7 @@
   top:197px;
   width:1234px;
   height:270px;
-  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-family:'PingFang SC Bold', 'PingFang SC';
   font-weight:650;
   font-style:normal;
   font-size:20px;
@@ -1298,7 +1298,7 @@
   width:14px;
   height:15px;
   font-family:'anticon Medium', 'anticon';
-  font-weight:500;
+  font-weight:400;
   font-style:normal;
   font-size:28px;
   color:rgba(0, 0, 0, 0.447058823529412);
@@ -1446,7 +1446,7 @@
   width:14px;
   height:15px;
   font-family:'anticon Medium', 'anticon';
-  font-weight:500;
+  font-weight:400;
   font-style:normal;
   font-size:28px;
   color:rgba(0, 0, 0, 0.447058823529412);
@@ -1661,7 +1661,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1676,7 +1676,7 @@
   top:151px;
   width:141px;
   height:46px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1759,7 +1759,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1774,7 +1774,7 @@
   top:151px;
   width:89px;
   height:46px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1848,7 +1848,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -1863,7 +1863,7 @@
   top:151px;
   width:141px;
   height:46px;
-  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-family:'PingFang SC Regular', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:14px;
